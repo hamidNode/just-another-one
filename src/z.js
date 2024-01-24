@@ -1,3 +1,2 @@
 //
-console.log("wwww");
-console.log("wwwwrrrrr");
+console.log("wwww2");
